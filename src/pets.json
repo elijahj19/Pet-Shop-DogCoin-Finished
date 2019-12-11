@@ -1,0 +1,151 @@
+[
+  {
+    "id": 0,
+    "name": "Purchase 10 Dog Coin for 0.1 Ether",
+    "picture": "images/buy-dog-coin.png"
+  },
+  {
+    "id": 1,
+    "name": "Frieda",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Lisco, Alabama",
+    "price": 1
+  },
+  {
+    "id": 2,
+    "name": "Gina",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Tooleville, West Virginia",
+    "price": 1
+  },
+  {
+    "id": 3,
+    "name": "Collins",
+    "picture": "images/french-bulldog.jpeg",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Freeburn, Idaho",
+    "price": 1
+  },
+  {
+    "id": 4,
+    "name": "Melissa",
+    "picture": "images/boxer.jpeg",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Camas, Pennsylvania",
+    "price": 1
+  },
+  {
+    "id": 5,
+    "name": "Jeanine",
+    "picture": "images/french-bulldog.jpeg",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Gerber, South Dakota",
+    "price": 1
+  },
+  {
+    "id": 6,
+    "name": "Elvia",
+    "picture": "images/french-bulldog.jpeg",
+    "age": 3,
+    "breed": "French Bulldog",
+    "location": "Innsbrook, Illinois",
+    "price": 1
+  },
+  {
+    "id": 7,
+    "name": "Latisha",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "location": "Soudan, Louisiana",
+    "price": 1
+  },
+  {
+    "id": 8,
+    "name": "Coleman",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 3,
+    "breed": "Golden Retriever",
+    "location": "Jacksonwald, Palau",
+    "price": 1
+  },
+  {
+    "id": 9,
+    "name": "Nichole",
+    "picture": "images/french-bulldog.jpeg",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Honolulu, Hawaii",
+    "price": 1
+  },
+  {
+    "id": 10,
+    "name": "Fran",
+    "picture": "images/boxer.jpeg",
+    "age": 3,
+    "breed": "Boxer",
+    "location": "Matheny, Utah",
+    "price": 1
+  },
+  {
+    "id": 11,
+    "name": "Leonor",
+    "picture": "images/boxer.jpeg",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Tyhee, Indiana",
+    "price": 1
+  },
+  {
+    "id": 12,
+    "name": "Dean",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Windsor, Montana",
+    "price": 1
+  },
+  {
+    "id": 13,
+    "name": "Stevenson",
+    "picture": "images/french-bulldog.jpeg",
+    "age": 3,
+    "breed": "French Bulldog",
+    "location": "Kingstowne, Nevada",
+    "price": 1
+  },
+  {
+    "id": 14,
+    "name": "Kristina",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 4,
+    "breed": "Golden Retriever",
+    "location": "Sultana, Massachusetts",
+    "price": 1
+  },
+  {
+    "id": 15,
+    "name": "Ethel",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 2,
+    "breed": "Golden Retriever",
+    "location": "Broadlands, Oregon",
+    "price": 1
+  },
+  {
+    "id": 16,
+    "name": "Terry",
+    "picture": "images/golden-retriever.jpeg",
+    "age": 2,
+    "breed": "Golden Retriever",
+    "location": "Dawn, Wisconsin",
+    "price": 1
+  }
+]
